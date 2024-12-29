@@ -1,0 +1,30 @@
+{
+  "name": "bartotree",
+  "version": "1.0.0",
+  "description": "cli app para ver un arbol de todas las carpetas (ls potenciado)",
+  "type": "module",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "barto-tree": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bartoloni00/bartoTree.git"
+  },
+  "keywords": [
+    "\"cli",
+    "app\"",
+    "node.js",
+    "javascript",
+    "typescript"
+  ],
+  "author": "abraham bartoloni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bartoloni00/bartoTree/issues"
+  },
+  "homepage": "https://github.com/Bartoloni00/bartoTree#readme"
+}
