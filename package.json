@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "cli app para ver un arbol de todas las carpetas (ls potenciado)",
   "type": "module",
-  "main": "./bin/index.js",
+  "main": "./bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "barto-tree": "./bin/index.js"
+    "barto-tree": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
